@@ -1,1 +1,1 @@
-# google-homepage
+I am currently doing The_Odin_Project curriculum. In this project, we were instructed to create a clone of Google's homepage. I've learned how to use HTML as well as how to style it with CSS. This was a fun project. 
