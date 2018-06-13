@@ -1,0 +1,92 @@
+/*header*/
+
+ul {
+  list-style: none;
+  margin: 0 ;
+  padding: 0;
+  overflow: hidden;
+}
+
+li {
+  float: left;
+  padding: 13px 16px
+}
+
+.signin {
+  height: 40px;
+  top-margin: 10px;
+  position: relative;
+  left: 1170px;
+  }
+
+#images {
+  position: relative;
+  left: 1170px;
+}
+
+#mail {
+  position: relative;
+  left: 1170px;
+}
+
+/*body*/
+
+.image {
+  position: relative;
+  top: 100px;
+  
+}
+
+.searchTerm {
+  width: 500px;
+  height: 34px;
+  position: relative;
+  top: 120px;
+  
+}
+
+.searchButton {
+  border: none;
+  width: 130px;
+  height: 30px;
+  position: relative;
+  left: 750px;
+  top: 121px;
+}
+
+.btn {
+  border: none;
+  width: 130px;
+  height: 30px;
+  position: relative;
+  left: 600px;
+  top: 150px
+  
+}
+
+p {
+  position: relative;
+  top: 150px;
+}
+
+
+/*footer*/
+.footer{
+  position: relative;
+  top: 320px;
+}
+
+#settings {
+  position: relative;
+  left: 1220px;
+}
+
+#terms {
+  position: relative;
+  left: 1070px;
+ }
+
+#privacy {
+  position: relative;
+  left: 920px;
+}
